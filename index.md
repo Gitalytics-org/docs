@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav_order: 0
+nav_order: -1
 ---
 
 ![pages-build-deployment](https://github.com/Gitalytics-org/docs/actions/workflows/pages/pages-build-deployment/badge.svg)
