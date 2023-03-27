@@ -35,5 +35,5 @@ If your still want to delete all your data then please contact us in any way and
 
 ## ❓ Where can I report Bugs or propose Ideas?
 
-❗ We currently don!t have a builtin feature for that.<br/>
+❗ We currently don't have a builtin feature for that.<br/>
 Please create an [issue here](https://github.com/Gitalytics-org/docs/issues/new/choose){:target="_blank"}
