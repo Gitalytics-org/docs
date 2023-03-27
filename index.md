@@ -6,7 +6,7 @@ nav_order: 0
 
 ![pages-build-deployment](https://github.com/Gitalytics-org/docs/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-# [Gitalytics.org](https://gitalytics.org)
+# [Gitalytics.org](https://gitalytics.org){:target="_blank"}
 
 This is a documentation about how to use Gitalytics.org.
 
