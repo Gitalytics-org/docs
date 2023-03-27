@@ -7,7 +7,7 @@ layout: default
 
 `github.com > settings > applications > Authorized OAuth Apps > gitalytics.org`
 
-[or directly here](https://github.com/settings/connections/applications/066d566863a226d661c7){:target="_new"}
+[or directly here](https://github.com/settings/connections/applications/066d566863a226d661c7){:target="_blank"}
 
 ![oauth apps list](assets/apps-oaths-listed.png)
 
