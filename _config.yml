@@ -18,7 +18,7 @@ aux_links: # remove if you don't want this link to appear on your pages
 aux_links_new_tab: true
 
 nav_external_links:
- - title: Website
+ - title: https://gitalytics.org
    url: https://gitalytics.org
 
 color_scheme: dark
