@@ -5,6 +5,7 @@ nav_order: -1
 ---
 
 ![pages-build-deployment](https://github.com/Gitalytics-org/docs/actions/workflows/pages/pages-build-deployment/badge.svg)
+![gitalytics.org](https://img.shields.io/website?down_message=offline&label=gitalytics.org&up_color=success&up_message=online&url=https%3A%2F%2Fgitalytics.org)
 
 # [Gitalytics.org](https://gitalytics.org){:target="_blank"}
 
