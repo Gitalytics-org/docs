@@ -5,7 +5,7 @@ layout: default
 
 # Getting Started
 
-first: go to our [login page](https://gitalytics.org/#/login)
+first: go to our [login page](https://gitalytics.org/#/login){:target="_blank"}
 
 here you can choose the git-provider of your choice
 
@@ -20,5 +20,7 @@ after you have chosen your provider you are redirected to there page.
 You have to login with your normal account (if you aren't already)
 and then grant us access.
 
-{: .note }
+{: .note-title }
+> Note (GitHub)
+> 
 > If you want us to analyze different workspaces you either have to grant the access (if you're the owner) or request the access (if you're a member)
